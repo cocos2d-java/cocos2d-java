@@ -7,6 +7,6 @@
 	<classpathentry kind="lib" path="libs/gdx-backend-lwjgl.jar" sourcepath="libs/gdx-backend-lwjgl-sources.jar"/>
 	<classpathentry kind="lib" path="libs/gdx-backend-lwjgl-natives.jar"/>
 	<classpathentry kind="lib" path="libs/gdx-natives.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/cocos2d-java_alpha0.1"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/cocos"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
